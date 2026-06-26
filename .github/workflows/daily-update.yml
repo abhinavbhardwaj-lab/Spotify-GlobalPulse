@@ -1,0 +1,76 @@
+name: Daily Update
+
+on:
+  schedule:
+    # 06:00 UTC every day — kworb refreshes its global chart ~02:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:  # allow manual runs
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - ".github/workflows/daily-update.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh chart + dashboard
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: python -m src.pipeline --limit 50
+
+      - name: Generate dashboard
+        run: python -m src.dashboard
+
+      - name: Commit updates
+        run: |
+          git config user.name "spotify-pulse-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(data): daily update $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
