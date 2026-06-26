@@ -127,6 +127,55 @@ def _mover_row(entry: dict[str, Any], kind: str) -> str:
     """
 
 
+
+def _stream_climbers(snapshot, history, today, limit=20, min_streams=1_000_000):
+    """Tracks with the biggest day-over-day percentage growth in daily streams."""
+    climbers = []
+    for entry in snapshot:
+        key = _track_key(entry)
+        per = history.get("tracks", {}).get(key, {}).get("days", {})
+        days = sorted(per.keys())
+        if today not in days or len(days) < 2:
+            continue
+        idx = days.index(today)
+        if idx == 0:
+            continue
+        prev = per[days[idx - 1]]["daily_streams"]
+        curr = per[today]["daily_streams"]
+        if prev < 100_000 or curr < min_streams:
+            continue
+        pct = (curr - prev) / prev * 100
+        if pct <= 0:
+            continue
+        climbers.append({**entry, "pct_change": pct, "stream_delta": curr - prev, "prev_streams": prev})
+    return sorted(climbers, key=lambda x: -x["pct_change"])[:limit]
+
+
+def _climber_card(entry):
+    sp = entry.get("spotify") or {}
+    image = sp.get("album_image") or ""
+    title = entry.get("display_title") or entry.get("title", "")
+    artist = entry.get("display_artist") or entry.get("artist", "")
+    url = sp.get("spotify_url") or "#"
+    pct = entry["pct_change"]
+    streams = _format_streams(entry["daily_streams"])
+    delta = _format_streams(entry["stream_delta"])
+    return f"""
+    <a class="climber-card" href="{url}" target="_blank" rel="noopener">
+      <div class="climber-rank">#{entry['rank']}</div>
+      <div class="climber-art" style="background-image:url('{image}')"></div>
+      <div class="climber-meta">
+        <div class="climber-title">{title}</div>
+        <div class="climber-artist">{artist}</div>
+      </div>
+      <div class="climber-stats">
+        <div class="climber-pct">+{pct:.0f}%</div>
+        <div class="climber-sub">{streams} <span>(+{delta})</span></div>
+      </div>
+    </a>
+    """
+
+
 def build(snapshot_path: Path | None = None) -> Path:
     snapshot_path = snapshot_path or (DATA_DIR / "latest.json")
     history_path = DATA_DIR / "history.json"
@@ -143,6 +192,7 @@ def build(snapshot_path: Path | None = None) -> Path:
     rest = tracks[10:50]
 
     risers, fallers = _movers(tracks, history, today)
+    climbers = _stream_climbers(tracks, history, today)
     total_streams = sum(t["daily_streams"] for t in tracks)
 
     # avg popularity from enriched tracks only
@@ -169,6 +219,7 @@ def build(snapshot_path: Path | None = None) -> Path:
         or '<li class="empty">Need more days of data.</li>',
         chart_labels=json.dumps(chart_labels),
         chart_values=json.dumps(chart_values),
+        climber_cards="\n".join(_climber_card(c) for c in climbers) or '<div class="empty">Need at least 2 days of data to compute climbers.</div>',
     )
     out_path = DOCS_DIR / "index.html"
     out_path.write_text(html)
@@ -181,8 +232,8 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Spotify Pulse — Daily Top Tracks</title>
-<meta name="description" content="Daily snapshot of the world's top Spotify tracks, refreshed every 24 hours." />
+<title>Spotify Global Pulse — Daily Top Tracks & Climbers</title>
+<meta name="description" content="Daily snapshot of the world's top Spotify tracks. Track music streaming trends here. Top global streaming tracks and top global streaming climbers." />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -307,6 +358,26 @@ TEMPLATE = """<!DOCTYPE html>
   footer a {{ color: var(--text); text-decoration: none; border-bottom: 1px dotted var(--border); }}
   footer a:hover {{ border-color: var(--accent); }}
 
+
+  .climbers-grid {{ display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }}
+  .climber-card {{
+    display: grid; grid-template-columns: 40px 56px 1fr auto; gap: 14px; align-items: center;
+    padding: 12px 16px; background: var(--surface); border: 1px solid var(--border);
+    border-radius: 14px; text-decoration: none; color: var(--text);
+    transition: transform .15s ease, border-color .15s ease, background .15s ease;
+  }}
+  .climber-card:hover {{ transform: translateY(-2px); border-color: var(--accent); background: var(--surface-2); }}
+  .climber-rank {{ font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }}
+  .climber-art {{ width: 56px; height: 56px; border-radius: 10px; background-size: cover; background-position: center; background-color: var(--surface-2); }}
+  .climber-meta {{ min-width: 0; }}
+  .climber-title {{ font-weight: 600; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
+  .climber-artist {{ font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
+  .climber-stats {{ text-align: right; }}
+  .climber-pct {{ font-size: 18px; font-weight: 800; color: var(--accent); font-variant-numeric: tabular-nums; letter-spacing: -0.01em; }}
+  .climber-sub {{ font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; }}
+  .climber-sub span {{ color: var(--accent); }}
+  @media (max-width: 900px) {{ .climbers-grid {{ grid-template-columns: 1fr; }} }}
+
   @media (max-width: 900px) {{
     .stats-grid {{ grid-template-columns: repeat(2, 1fr); }}
     .top-grid {{ grid-template-columns: repeat(2, 1fr); }}
@@ -322,8 +393,8 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="brand">
       <div class="logo">P</div>
       <div>
-        <h1>Spotify Pulse</h1>
-        <div class="tagline">Daily snapshot of the world's top Spotify tracks</div>
+        <h1>Spotify Global Pulse</h1>
+        <div class="tagline">Daily snapshot of the world's top Spotify tracks. Track music streaming trends here. Top global streaming tracks and top global streaming climbers.</div>
       </div>
     </div>
     <div class="meta-pill"><span class="dot"></span> Updated {generated}</div>
@@ -385,6 +456,14 @@ TEMPLATE = """<!DOCTYPE html>
         <ul>{fallers_list}</ul>
       </div>
     </div>
+  </section>
+
+  <section>
+    <div class="section-header">
+      <h2><span class="hash">#</span>Top 20 Stream Climbers</h2>
+      <span class="section-sub">Day-over-day growth in daily streams &middot; min 1M streams</span>
+    </div>
+    <div class="climbers-grid">{climber_cards}</div>
   </section>
 
   <section>
