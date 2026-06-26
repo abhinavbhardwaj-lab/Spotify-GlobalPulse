@@ -195,10 +195,15 @@ def build(snapshot_path: Path | None = None) -> Path:
     climbers = _stream_climbers(tracks, history, today)
     total_streams = sum(t["daily_streams"] for t in tracks)
 
-    # avg popularity from enriched tracks only
-    pops = [(t.get("spotify") or {}).get("popularity", 0) for t in tracks]
-    valid_pops = [p for p in pops if p]
-    avg_pop = sum(valid_pops) / max(len(valid_pops), 1) if valid_pops else 0
+    # avg track length from enriched tracks
+    durations = [(t.get("spotify") or {}).get("duration_ms") for t in tracks]
+    valid_durations = [d for d in durations if d]
+    avg_duration_ms = sum(valid_durations) / len(valid_durations) if valid_durations else 0
+    if avg_duration_ms:
+        total_s = int(avg_duration_ms / 1000)
+        avg_duration_label = f"{total_s // 60}:{total_s % 60:02d}"
+    else:
+        avg_duration_label = "\u2014"
 
     chart_labels = [t.get("display_title", "")[:24] for t in top10]
     chart_values = [t["daily_streams"] for t in top10]
@@ -209,7 +214,7 @@ def build(snapshot_path: Path | None = None) -> Path:
         generated=dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
         track_count=len(tracks),
         total_streams=_format_streams(total_streams),
-        avg_popularity=f"{avg_pop:.0f}" if avg_pop else "—",
+        avg_popularity=avg_duration_label,
         days_tracked=len(history.get("days", [])),
         top_cards="\n".join(_track_card(t, history, today, prominent=True) for t in top10),
         rest_cards="\n".join(_track_card(t, history, today, prominent=False) for t in rest),
@@ -417,9 +422,9 @@ TEMPLATE = """<!DOCTYPE html>
       <div class="sub">Across top {track_count} tracks</div>
     </div>
     <div class="stat">
-      <div class="label">Avg. Popularity</div>
+      <div class="label">Avg. Track Length</div>
       <div class="value">{avg_popularity}</div>
-      <div class="sub">Spotify popularity · {days_tracked}d history</div>
+      <div class="sub">Across top 50 · {days_tracked}d history</div>
     </div>
   </div>
 
