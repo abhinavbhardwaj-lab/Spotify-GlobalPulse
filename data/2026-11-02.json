@@ -1,0 +1,1267 @@
+{
+  "date": "2026-11-02",
+  "source": "kworb.net global_daily + spotify-web-api",
+  "track_count": 50,
+  "tracks": [
+    {
+      "rank": 1,
+      "track_id": "2LlQb7Uoj1kKyGhlkBf9aC",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "daily_streams": 6606221,
+      "total_streams": 17119474,
+      "spotify": {
+        "id": "2LlQb7Uoj1kKyGhlkBf9aC",
+        "name": "Thriller",
+        "artists": [
+          "Michael Jackson"
+        ],
+        "album": "Thriller",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+        "popularity": 0,
+        "duration_ms": 358807,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC",
+        "explicit": false,
+        "release_date": "1982-11-30"
+      },
+      "display_title": "Thriller",
+      "display_artist": "Michael Jackson"
+    },
+    {
+      "rank": 2,
+      "track_id": "6thXB4RmajS4oZPNiBAKy0",
+      "title": "Ghostbusters",
+      "artist": "Ray Parker Jr.",
+      "daily_streams": 6077954,
+      "total_streams": 8431027,
+      "spotify": {
+        "id": "6thXB4RmajS4oZPNiBAKy0",
+        "name": "Ghostbusters",
+        "artists": [
+          "Ray Parker Jr."
+        ],
+        "album": "Greatest Hits",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ed86c7a97ede8185293c1b8f",
+        "popularity": 0,
+        "duration_ms": 239133,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0",
+        "explicit": false,
+        "release_date": "1993-10-12"
+      },
+      "display_title": "Ghostbusters",
+      "display_artist": "Ray Parker Jr."
+    },
+    {
+      "rank": 3,
+      "track_id": "4uUVNaxpS4zYcXkTrrRp6R",
+      "title": "Monster Mash",
+      "artist": "Bobby \"Boris\" Pickett",
+      "daily_streams": 5730904,
+      "total_streams": 7882785,
+      "spotify": {
+        "id": "4uUVNaxpS4zYcXkTrrRp6R",
+        "name": "Monster Mash",
+        "artists": [
+          "Bobby \"Boris\" Pickett"
+        ],
+        "album": "Sinister Stomp",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273fa5f42e3c99ee31d26f52406",
+        "popularity": 0,
+        "duration_ms": 194063,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/4uUVNaxpS4zYcXkTrrRp6R",
+        "explicit": false,
+        "release_date": "2021-08-18"
+      },
+      "display_title": "Monster Mash",
+      "display_artist": "Bobby \"Boris\" Pickett"
+    },
+    {
+      "rank": 4,
+      "track_id": "2sFepQNyl1WjpROruP8bJ0",
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "daily_streams": 5447971,
+      "total_streams": 44869579,
+      "spotify": {
+        "id": "2sFepQNyl1WjpROruP8bJ0",
+        "name": "Housewife",
+        "artists": [
+          "Tate McRae"
+        ],
+        "album": "Housewife",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273f2d3185e46b03c243f60ce53",
+        "popularity": 0,
+        "duration_ms": 208810,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
+        "explicit": false,
+        "release_date": "2026-10-15"
+      },
+      "display_title": "Housewife",
+      "display_artist": "Tate McRae"
+    },
+    {
+      "rank": 5,
+      "track_id": "3h5T5JypYU7huFiVYhv1dr",
+      "title": "BbY WOW",
+      "artist": "KAROL G",
+      "daily_streams": 5362009,
+      "total_streams": 35190349,
+      "spotify": {
+        "id": "3h5T5JypYU7huFiVYhv1dr",
+        "name": "BbY WOW",
+        "artists": [
+          "KAROL G",
+          "Judeline",
+          "rusowsky"
+        ],
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+        "popularity": 0,
+        "duration_ms": 225834,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr",
+        "explicit": false,
+        "release_date": "2026-08-07"
+      },
+      "display_title": "BbY WOW",
+      "display_artist": "KAROL G, Judeline, rusowsky"
+    },
+    {
+      "rank": 6,
+      "track_id": "63y2aL2dT6zzw8FOSLaNrp",
+      "title": "This Is Halloween",
+      "artist": "The Citizens of Halloween",
+      "daily_streams": 4813939,
+      "total_streams": 6702483,
+      "spotify": {
+        "id": "63y2aL2dT6zzw8FOSLaNrp",
+        "name": "This Is Halloween",
+        "artists": [
+          "The Citizens of Halloween"
+        ],
+        "album": "The Nightmare Before Christmas",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c7c4b70ceab165ca1d716467",
+        "popularity": 0,
+        "duration_ms": 196186,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp",
+        "explicit": false,
+        "release_date": "1993-01-01"
+      },
+      "display_title": "This Is Halloween",
+      "display_artist": "The Citizens of Halloween"
+    },
+    {
+      "rank": 7,
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
+      "title": "Nicole Kidman",
+      "artist": "AD\u00c3\u0089LA",
+      "daily_streams": 4649997,
+      "total_streams": 31773460,
+      "spotify": {
+        "id": "70cHKK8bHAfJrOGVnfRG9J",
+        "name": "Nicole Kidman",
+        "artists": [
+          "AD\u00c9LA"
+        ],
+        "album": "PRIMA",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ac9d5d5263e9f03802d6864c",
+        "popularity": 0,
+        "duration_ms": 181270,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J",
+        "explicit": true,
+        "release_date": "2026-09-04"
+      },
+      "display_title": "Nicole Kidman",
+      "display_artist": "AD\u00c9LA"
+    },
+    {
+      "rank": 8,
+      "track_id": "1sUdq3kWa9dJXHu3eYOUll",
+      "title": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "artist": "Andrew Gold",
+      "daily_streams": 4328170,
+      "total_streams": 5934510,
+      "spotify": {
+        "id": "1sUdq3kWa9dJXHu3eYOUll",
+        "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+        "artists": [
+          "Andrew Gold"
+        ],
+        "album": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273a3cf7d524baed9e303302918",
+        "popularity": 0,
+        "duration_ms": 125624,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll",
+        "explicit": false,
+        "release_date": "2019-10-18"
+      },
+      "display_title": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "display_artist": "Andrew Gold"
+    },
+    {
+      "rank": 9,
+      "track_id": "2QN9zL3SzXdGqqmXO68gFp",
+      "title": "Somebody's Watching Me - Single Version",
+      "artist": "Rockwell",
+      "daily_streams": 5727179,
+      "total_streams": 7284020,
+      "spotify": {
+        "id": "2QN9zL3SzXdGqqmXO68gFp",
+        "name": "Somebody's Watching Me - Single Version",
+        "artists": [
+          "Rockwell"
+        ],
+        "album": "Somebody\u2019s Watching Me (Sped Up)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2733b6773d6e0df6eedefb20190",
+        "popularity": 0,
+        "duration_ms": 238786,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp",
+        "explicit": false,
+        "release_date": "2023-09-22"
+      },
+      "display_title": "Somebody's Watching Me - Single Version",
+      "display_artist": "Rockwell"
+    },
+    {
+      "rank": 10,
+      "track_id": "3zOYmiNOuyDL0ClxJcEJ0T",
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "daily_streams": 3766283,
+      "total_streams": 26486213,
+      "spotify": {
+        "id": "3zOYmiNOuyDL0ClxJcEJ0T",
+        "name": "Stop The Wedding!",
+        "artists": [
+          "Ashe"
+        ],
+        "album": "Stop The Wedding!",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2730893a0c33fd4b8497b0ef2f6",
+        "popularity": 0,
+        "duration_ms": 198840,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T",
+        "explicit": false,
+        "release_date": "2026-08-07"
+      },
+      "display_title": "Stop The Wedding!",
+      "display_artist": "Ashe"
+    },
+    {
+      "rank": 11,
+      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
+      "title": "Ain't In LA",
+      "artist": "AD\u00c3\u0089LA",
+      "daily_streams": 3530852,
+      "total_streams": 25196138,
+      "spotify": {
+        "id": "6U9VpmP3dEinuezxCJ2Zg9",
+        "name": "Ain't In LA",
+        "artists": [
+          "AD\u00c9LA"
+        ],
+        "album": "PRIMA",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ac9d5d5263e9f03802d6864c",
+        "popularity": 0,
+        "duration_ms": 184927,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9",
+        "explicit": true,
+        "release_date": "2026-09-04"
+      },
+      "display_title": "Ain't In LA",
+      "display_artist": "AD\u00c9LA"
+    },
+    {
+      "rank": 12,
+      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "title": "Beauty And A Beat",
+      "artist": "Justin Bieber",
+      "daily_streams": 3150021,
+      "total_streams": 19169746,
+      "spotify": {
+        "id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+        "name": "Beauty And A Beat",
+        "artists": [
+          "Justin Bieber",
+          "Nicki Minaj"
+        ],
+        "album": "Believe",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+        "popularity": 0,
+        "duration_ms": 227986,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
+        "explicit": false,
+        "release_date": "2012-01-01"
+      },
+      "display_title": "Beauty And A Beat",
+      "display_artist": "Justin Bieber, Nicki Minaj"
+    },
+    {
+      "rank": 13,
+      "track_id": "1uDn0nbzeGPVw97jp7SvzR",
+      "title": "P\u00c3\u00b3s - Ao Vivo",
+      "artist": "Felipe e Rodrigo",
+      "daily_streams": 3095861,
+      "total_streams": 17859971,
+      "spotify": {
+        "id": "1uDn0nbzeGPVw97jp7SvzR",
+        "name": "P\u00f3s - Ao Vivo",
+        "artists": [
+          "Felipe e Rodrigo"
+        ],
+        "album": "P\u00f3s (Ao Vivo)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c5a6ec393f8a3827c3f3312e",
+        "popularity": 0,
+        "duration_ms": 175577,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR",
+        "explicit": false,
+        "release_date": "2026-10-08"
+      },
+      "display_title": "P\u00f3s - Ao Vivo",
+      "display_artist": "Felipe e Rodrigo"
+    },
+    {
+      "rank": 14,
+      "track_id": "55pBIZO1cqoldeqpp5WR7H",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "daily_streams": 3092507,
+      "total_streams": 22902651,
+      "spotify": {
+        "id": "55pBIZO1cqoldeqpp5WR7H",
+        "name": "the cure",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "popularity": 0,
+        "duration_ms": 297090,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+        "explicit": true,
+        "release_date": "2026-06-12"
+      },
+      "display_title": "the cure",
+      "display_artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 15,
+      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "daily_streams": 2895972,
+      "total_streams": 15545723,
+      "spotify": {
+        "id": "7J1uxwnxfQLu4APicE5Rnj",
+        "name": "Billie Jean",
+        "artists": [
+          "Michael Jackson"
+        ],
+        "album": "Thriller",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+        "popularity": 0,
+        "duration_ms": 293802,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+        "explicit": false,
+        "release_date": "1982-11-30"
+      },
+      "display_title": "Billie Jean",
+      "display_artist": "Michael Jackson"
+    },
+    {
+      "rank": 16,
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "title": "back to friends",
+      "artist": "sombr",
+      "daily_streams": 2787146,
+      "total_streams": 19428854,
+      "spotify": {
+        "id": "7qjZnBKE73H4Oxkopwulqe",
+        "name": "back to friends",
+        "artists": [
+          "sombr"
+        ],
+        "album": "I Barely Know Her",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+        "popularity": 0,
+        "duration_ms": 199032,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+        "explicit": false,
+        "release_date": "2025-08-22"
+      },
+      "display_title": "back to friends",
+      "display_artist": "sombr"
+    },
+    {
+      "rank": 17,
+      "track_id": "2009X8GyWTqyxIdzAEYW6N",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "daily_streams": 2718669,
+      "total_streams": 18654972,
+      "spotify": {
+        "id": "2009X8GyWTqyxIdzAEYW6N",
+        "name": "The One That Got Away",
+        "artists": [
+          "Katy Perry"
+        ],
+        "album": "Teenage Dream",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2731d955011a3ed477dc77865ad",
+        "popularity": 0,
+        "duration_ms": 227333,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N",
+        "explicit": false,
+        "release_date": "2010-01-01"
+      },
+      "display_title": "The One That Got Away",
+      "display_artist": "Katy Perry"
+    },
+    {
+      "rank": 18,
+      "track_id": "1NXbNEAcPvY5G1xvfN57aA",
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "daily_streams": 2649369,
+      "total_streams": 9989564,
+      "spotify": {
+        "id": "1NXbNEAcPvY5G1xvfN57aA",
+        "name": "Dracula",
+        "artists": [
+          "Tame Impala"
+        ],
+        "album": "Deadbeat",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+        "popularity": 0,
+        "duration_ms": 205308,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
+        "explicit": true,
+        "release_date": "2025-10-17"
+      },
+      "display_title": "Dracula",
+      "display_artist": "Tame Impala"
+    },
+    {
+      "rank": 19,
+      "track_id": "11BKm0j4eYoCPPpCONAVwA",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "daily_streams": 2630469,
+      "total_streams": 2630469,
+      "spotify": {
+        "id": "11BKm0j4eYoCPPpCONAVwA",
+        "name": "Bloody Mary",
+        "artists": [
+          "Lady Gaga"
+        ],
+        "album": "Born This Way (Special Edition)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8",
+        "popularity": 0,
+        "duration_ms": 244760,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA",
+        "explicit": false,
+        "release_date": "2011-01-01"
+      },
+      "display_title": "Bloody Mary",
+      "display_artist": "Lady Gaga"
+    },
+    {
+      "rank": 20,
+      "track_id": "30VrBsh1STRBoIrhQOAwzK",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "daily_streams": 2616791,
+      "total_streams": 4150732,
+      "spotify": {
+        "id": "30VrBsh1STRBoIrhQOAwzK",
+        "name": "Disturbia",
+        "artists": [
+          "Rihanna"
+        ],
+        "album": "Good Girl Gone Bad: Reloaded",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c10fafad6a659f2802b32421",
+        "popularity": 0,
+        "duration_ms": 238573,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/30VrBsh1STRBoIrhQOAwzK",
+        "explicit": false,
+        "release_date": "2007-03-31"
+      },
+      "display_title": "Disturbia",
+      "display_artist": "Rihanna"
+    },
+    {
+      "rank": 21,
+      "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga",
+      "daily_streams": 2588899,
+      "total_streams": 17270213,
+      "spotify": {
+        "id": "7so0lgd0zP2Sbgs2d7a1SZ",
+        "name": "Die With A Smile",
+        "artists": [
+          "Lady Gaga",
+          "Bruno Mars"
+        ],
+        "album": "MAYHEM",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+        "popularity": 0,
+        "duration_ms": 251667,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
+        "explicit": false,
+        "release_date": "2025-03-07"
+      },
+      "display_title": "Die With A Smile",
+      "display_artist": "Lady Gaga, Bruno Mars"
+    },
+    {
+      "rank": 22,
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "title": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "daily_streams": 2556030,
+      "total_streams": 17929477,
+      "spotify": {
+        "id": "6Qyc6fS4DsZjB2mRW9DsQs",
+        "name": "Iris",
+        "artists": [
+          "The Goo Goo Dolls"
+        ],
+        "album": "Dizzy up the Girl",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
+        "popularity": 0,
+        "duration_ms": 289533,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+        "explicit": false,
+        "release_date": "1998"
+      },
+      "display_title": "Iris",
+      "display_artist": "The Goo Goo Dolls"
+    },
+    {
+      "rank": 23,
+      "track_id": "1mKXFLRA179hdOWQBwUk9e",
+      "title": "Just Give Me a Reason",
+      "artist": "P!nk",
+      "daily_streams": 2544450,
+      "total_streams": 17833391,
+      "spotify": {
+        "id": "1mKXFLRA179hdOWQBwUk9e",
+        "name": "Just Give Me a Reason (feat. Nate Ruess)",
+        "artists": [
+          "P!nk",
+          "Nate Ruess"
+        ],
+        "album": "The Truth About Love",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27324a1ac503b55e6eef9a7bb8c",
+        "popularity": 0,
+        "duration_ms": 242721,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e",
+        "explicit": false,
+        "release_date": "2012-09-18"
+      },
+      "display_title": "Just Give Me a Reason (feat. Nate Ruess)",
+      "display_artist": "P!nk, Nate Ruess"
+    },
+    {
+      "rank": 24,
+      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "daily_streams": 2523662,
+      "total_streams": 18855563,
+      "spotify": {
+        "id": "0eAuGrXyGFYwur9ARUe7LJ",
+        "name": "Earrings",
+        "artists": [
+          "Malcolm Todd"
+        ],
+        "album": "Sweet Boy",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+        "popularity": 0,
+        "duration_ms": 151500,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+        "explicit": false,
+        "release_date": "2024-04-05"
+      },
+      "display_title": "Earrings",
+      "display_artist": "Malcolm Todd"
+    },
+    {
+      "rank": 25,
+      "track_id": "0VjIjW4GlUZAMYd2vXMi3b",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "daily_streams": 2489151,
+      "total_streams": 11276122,
+      "spotify": {
+        "id": "0VjIjW4GlUZAMYd2vXMi3b",
+        "name": "Blinding Lights",
+        "artists": [
+          "The Weeknd"
+        ],
+        "album": "After Hours",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+        "popularity": 0,
+        "duration_ms": 200040,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+        "explicit": false,
+        "release_date": "2020-03-20"
+      },
+      "display_title": "Blinding Lights",
+      "display_artist": "The Weeknd"
+    },
+    {
+      "rank": 26,
+      "track_id": "1o9mAOmNm3wT2NdyGV1Ard",
+      "title": "Babydoll",
+      "artist": "Jamie Miller",
+      "daily_streams": 2475402,
+      "total_streams": 16243948,
+      "spotify": {
+        "id": "1o9mAOmNm3wT2NdyGV1Ard",
+        "name": "Babydoll",
+        "artists": [
+          "Jamie Miller"
+        ],
+        "album": "Babydoll",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273762978a11f6ddee8c55781e7",
+        "popularity": 0,
+        "duration_ms": 178822,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard",
+        "explicit": false,
+        "release_date": "2026-08-07"
+      },
+      "display_title": "Babydoll",
+      "display_artist": "Jamie Miller"
+    },
+    {
+      "rank": 27,
+      "track_id": "5yvVYFDUpbnjcnRBgjwTzM",
+      "title": "Dracula - JENNIE Remix",
+      "artist": "Tame Impala",
+      "daily_streams": 2395139,
+      "total_streams": 10202832,
+      "spotify": {
+        "id": "5yvVYFDUpbnjcnRBgjwTzM",
+        "name": "Dracula (with JENNIE)",
+        "artists": [
+          "Tame Impala",
+          "JENNIE"
+        ],
+        "album": "Dracula (with JENNIE)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c7c031ce9d06b131f8563676",
+        "popularity": 0,
+        "duration_ms": 209720,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM",
+        "explicit": true,
+        "release_date": "2026-02-06"
+      },
+      "display_title": "Dracula (with JENNIE)",
+      "display_artist": "Tame Impala, JENNIE"
+    },
+    {
+      "rank": 28,
+      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "daily_streams": 2370874,
+      "total_streams": 17293560,
+      "spotify": {
+        "id": "2QjOHCTQ1Jl3zawyYOpxh6",
+        "name": "Sweater Weather",
+        "artists": [
+          "The Neighbourhood"
+        ],
+        "album": "I Love You.",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+        "popularity": 0,
+        "duration_ms": 240400,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+        "explicit": false,
+        "release_date": "2013-04-22"
+      },
+      "display_title": "Sweater Weather",
+      "display_artist": "The Neighbourhood"
+    },
+    {
+      "rank": 29,
+      "track_id": "0xXYRMvxCUBKWVptybXSjB",
+      "title": "Postinho de Gasolina",
+      "artist": "Jo\u00c3\u00a3o Gustavo e Murilo",
+      "daily_streams": 2359055,
+      "total_streams": 12360054,
+      "spotify": {
+        "id": "0xXYRMvxCUBKWVptybXSjB",
+        "name": "Postinho de Gasolina",
+        "artists": [
+          "Jo\u00e3o Gustavo e Murilo",
+          "Grelo"
+        ],
+        "album": "Postinho de Gasolina",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2735a5ab94b38aec77383bde6ff",
+        "popularity": 0,
+        "duration_ms": 143371,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB",
+        "explicit": false,
+        "release_date": "2026-08-07"
+      },
+      "display_title": "Postinho de Gasolina",
+      "display_artist": "Jo\u00e3o Gustavo e Murilo, Grelo"
+    },
+    {
+      "rank": 30,
+      "track_id": "0wQy2OO7jKjm0OOmA7gv3f",
+      "title": "Thriller - 2003 Edit",
+      "artist": "Michael Jackson",
+      "daily_streams": 2358824,
+      "total_streams": 2358824,
+      "spotify": {
+        "id": "0wQy2OO7jKjm0OOmA7gv3f",
+        "name": "Thriller - 2003 Edit",
+        "artists": [
+          "Michael Jackson"
+        ],
+        "album": "Number Ones",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273eb15b69407230b713423d3cb",
+        "popularity": 0,
+        "duration_ms": 312794,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f",
+        "explicit": false,
+        "release_date": "2003-11-17"
+      },
+      "display_title": "Thriller - 2003 Edit",
+      "display_artist": "Michael Jackson"
+    },
+    {
+      "rank": 31,
+      "track_id": "6VDw2mGBIa4csypjOhS6JT",
+      "title": "Suzuki (from GTAVI: The Album)",
+      "artist": "Fuerza Regida",
+      "daily_streams": 2338586,
+      "total_streams": 14367559,
+      "spotify": {
+        "id": "6VDw2mGBIa4csypjOhS6JT",
+        "name": "Suzuki (from GTAVI: The Album)",
+        "artists": [
+          "Fuerza Regida",
+          "Grand Theft Auto VI"
+        ],
+        "album": "Suzuki (from GTAVI: The Album)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27380028ec6e7fb8f21fb3ba153",
+        "popularity": 0,
+        "duration_ms": 111655,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT",
+        "explicit": true,
+        "release_date": "2026-10-08"
+      },
+      "display_title": "Suzuki (from GTAVI: The Album)",
+      "display_artist": "Fuerza Regida, Grand Theft Auto VI"
+    },
+    {
+      "rank": 32,
+      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "daily_streams": 2306967,
+      "total_streams": 16099642,
+      "spotify": {
+        "id": "4WFgvKVfEhb3IUAFGrutTR",
+        "name": "Love Me Not",
+        "artists": [
+          "Ravyn Lenae"
+        ],
+        "album": "Bird's Eye",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2730e62daaea2c7b94053e1c142",
+        "popularity": 0,
+        "duration_ms": 213466,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
+        "explicit": false,
+        "release_date": "2024-08-09"
+      },
+      "display_title": "Love Me Not",
+      "display_artist": "Ravyn Lenae"
+    },
+    {
+      "rank": 33,
+      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "daily_streams": 2294204,
+      "total_streams": 15574120,
+      "spotify": {
+        "id": "7scFxt9VhL4FJwuPSfRlfN",
+        "name": "Choosin' Texas",
+        "artists": [
+          "Ella Langley"
+        ],
+        "album": "Dandelion",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
+        "popularity": 0,
+        "duration_ms": 231746,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
+        "explicit": false,
+        "release_date": "2026-04-10"
+      },
+      "display_title": "Choosin' Texas",
+      "display_artist": "Ella Langley"
+    },
+    {
+      "rank": 34,
+      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "daily_streams": 2289026,
+      "total_streams": 11989421,
+      "spotify": {
+        "id": "3BovdzfaX4jb5KFQwoPfAw",
+        "name": "Beat It",
+        "artists": [
+          "Michael Jackson"
+        ],
+        "album": "Thriller",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+        "popularity": 0,
+        "duration_ms": 258296,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw",
+        "explicit": false,
+        "release_date": "1982-11-30"
+      },
+      "display_title": "Beat It",
+      "display_artist": "Michael Jackson"
+    },
+    {
+      "rank": 35,
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "daily_streams": 2284113,
+      "total_streams": 14920648,
+      "spotify": {
+        "id": "3qhlB30KknSejmIvZZLjOD",
+        "name": "End of Beginning",
+        "artists": [
+          "Djo"
+        ],
+        "album": "DECIDE",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273987466cc3363ea26094ca3c4",
+        "popularity": 0,
+        "duration_ms": 159245,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+        "explicit": false,
+        "release_date": "2022-09-16"
+      },
+      "display_title": "End of Beginning",
+      "display_artist": "Djo"
+    },
+    {
+      "rank": 36,
+      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "daily_streams": 2197105,
+      "total_streams": 16663117,
+      "spotify": {
+        "id": "7ujApz6iFP3PmKIDGcaGbe",
+        "name": "Great Expectation",
+        "artists": [
+          "SIENNA SPIRO"
+        ],
+        "album": "Visitor",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+        "popularity": 0,
+        "duration_ms": 173975,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
+        "explicit": false,
+        "release_date": "2026-07-02"
+      },
+      "display_title": "Great Expectation",
+      "display_artist": "SIENNA SPIRO"
+    },
+    {
+      "rank": 37,
+      "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "daily_streams": 2186420,
+      "total_streams": 15343845,
+      "spotify": {
+        "id": "1qbmS6ep2hbBRaEZFpn7BX",
+        "name": "Man I Need",
+        "artists": [
+          "Olivia Dean"
+        ],
+        "album": "Man I Need",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+        "popularity": 0,
+        "duration_ms": 184000,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+        "explicit": false,
+        "release_date": "2025-08-15"
+      },
+      "display_title": "Man I Need",
+      "display_artist": "Olivia Dean"
+    },
+    {
+      "rank": 38,
+      "track_id": "003vvx7Niy0yvhvHt4a68B",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "daily_streams": 2179660,
+      "total_streams": 14740189,
+      "spotify": {
+        "id": "003vvx7Niy0yvhvHt4a68B",
+        "name": "Mr. Brightside",
+        "artists": [
+          "The Killers"
+        ],
+        "album": "Hot Fuss",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+        "popularity": 0,
+        "duration_ms": 222973,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+        "explicit": false,
+        "release_date": "2004"
+      },
+      "display_title": "Mr. Brightside",
+      "display_artist": "The Killers"
+    },
+    {
+      "rank": 39,
+      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
+      "title": "Creep",
+      "artist": "Radiohead",
+      "daily_streams": 2151054,
+      "total_streams": 14350301,
+      "spotify": {
+        "id": "70LcF31zb1H0PyJoS1Sx1r",
+        "name": "Creep",
+        "artists": [
+          "Radiohead"
+        ],
+        "album": "Pablo Honey",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
+        "popularity": 0,
+        "duration_ms": 238640,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
+        "explicit": true,
+        "release_date": "1993-02-22"
+      },
+      "display_title": "Creep",
+      "display_artist": "Radiohead"
+    },
+    {
+      "rank": 40,
+      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "daily_streams": 2146673,
+      "total_streams": 15666842,
+      "spotify": {
+        "id": "7yNf9YjeO5JXUE3JEBgnYc",
+        "name": "Babydoll",
+        "artists": [
+          "Dominic Fike"
+        ],
+        "album": "Don't Forget About Me, Demos",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+        "popularity": 0,
+        "duration_ms": 97960,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+        "explicit": false,
+        "release_date": "2018-10-16"
+      },
+      "display_title": "Babydoll",
+      "display_artist": "Dominic Fike"
+    },
+    {
+      "rank": 41,
+      "track_id": "0COqiPhxzoWICwFCS4eZcp",
+      "title": "Bring Me To Life",
+      "artist": "Evanescence",
+      "daily_streams": 2142099,
+      "total_streams": 12402821,
+      "spotify": {
+        "id": "0COqiPhxzoWICwFCS4eZcp",
+        "name": "Bring Me To Life",
+        "artists": [
+          "Evanescence"
+        ],
+        "album": "Fallen",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+        "popularity": 0,
+        "duration_ms": 235893,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+        "explicit": false,
+        "release_date": "2003-03-04"
+      },
+      "display_title": "Bring Me To Life",
+      "display_artist": "Evanescence"
+    },
+    {
+      "rank": 42,
+      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "daily_streams": 2140082,
+      "total_streams": 16997632,
+      "spotify": {
+        "id": "49j6SvuvWfbEKZKzsHCdLJ",
+        "name": "stupid song",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "popularity": 0,
+        "duration_ms": 209680,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+        "explicit": false,
+        "release_date": "2026-06-11"
+      },
+      "display_title": "stupid song",
+      "display_artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 43,
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "title": "Self Aware",
+      "artist": "Temper City",
+      "daily_streams": 2132454,
+      "total_streams": 15687394,
+      "spotify": {
+        "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+        "name": "Self Aware",
+        "artists": [
+          "Temper City"
+        ],
+        "album": "Self Aware",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+        "popularity": 0,
+        "duration_ms": 180740,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+        "explicit": false,
+        "release_date": "2026-02-15"
+      },
+      "display_title": "Self Aware",
+      "display_artist": "Temper City"
+    },
+    {
+      "rank": 44,
+      "track_id": "68lbSrXDORS51pmyjZv712",
+      "title": "SWIM",
+      "artist": "BTS",
+      "daily_streams": 2085417,
+      "total_streams": 14936252,
+      "spotify": {
+        "id": "68lbSrXDORS51pmyjZv712",
+        "name": "SWIM",
+        "artists": [
+          "BTS"
+        ],
+        "album": "ARIRANG",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
+        "popularity": 0,
+        "duration_ms": 159007,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+        "explicit": false,
+        "release_date": "2026-03-20"
+      },
+      "display_title": "SWIM",
+      "display_artist": "BTS"
+    },
+    {
+      "rank": 45,
+      "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+      "title": "One Of The Girls",
+      "artist": "The Weeknd",
+      "daily_streams": 2079005,
+      "total_streams": 14141309,
+      "spotify": {
+        "id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+        "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+        "artists": [
+          "The Weeknd",
+          "JENNIE",
+          "Lily-Rose Depp"
+        ],
+        "album": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
+        "popularity": 0,
+        "duration_ms": 244684,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW",
+        "explicit": false,
+        "release_date": "2023-06-23"
+      },
+      "display_title": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "display_artist": "The Weeknd, JENNIE, Lily-Rose Depp"
+    },
+    {
+      "rank": 46,
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "title": "Loser",
+      "artist": "Tame Impala",
+      "daily_streams": 2050763,
+      "total_streams": 15440230,
+      "spotify": {
+        "id": "7bxaFZ1O3cHkgLKMsdC3xR",
+        "name": "Loser",
+        "artists": [
+          "Tame Impala"
+        ],
+        "album": "Deadbeat",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+        "popularity": 0,
+        "duration_ms": 223069,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
+        "explicit": true,
+        "release_date": "2025-10-17"
+      },
+      "display_title": "Loser",
+      "display_artist": "Tame Impala"
+    },
+    {
+      "rank": 47,
+      "track_id": "7dSCxR4LqkmxoBrq9MzVSD",
+      "title": "Psycho Killer",
+      "artist": "Talking Heads",
+      "daily_streams": 2050744,
+      "total_streams": 2050744,
+      "spotify": {
+        "id": "7dSCxR4LqkmxoBrq9MzVSD",
+        "name": "Psycho Killer",
+        "artists": [
+          "Talking Heads"
+        ],
+        "album": "Talking Heads '77",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273b74dc29f68a36438421a9f1d",
+        "popularity": 0,
+        "duration_ms": 260506,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
+        "explicit": false,
+        "release_date": "1977-09-16"
+      },
+      "display_title": "Psycho Killer",
+      "display_artist": "Talking Heads"
+    },
+    {
+      "rank": 48,
+      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "daily_streams": 2048123,
+      "total_streams": 14918460,
+      "spotify": {
+        "id": "3QGsuHI8jO1Rx4JWLUh9jd",
+        "name": "Treat You Better",
+        "artists": [
+          "Shawn Mendes"
+        ],
+        "album": "Illuminate",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b",
+        "popularity": 0,
+        "duration_ms": 187973,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+        "explicit": false,
+        "release_date": "2017-04-20"
+      },
+      "display_title": "Treat You Better",
+      "display_artist": "Shawn Mendes"
+    },
+    {
+      "rank": 49,
+      "track_id": "3gjHnylel3PTRpjS44ocqr",
+      "title": "Zombie - 2025 Remastered",
+      "artist": "The Cranberries",
+      "daily_streams": 2043774,
+      "total_streams": 10815737,
+      "spotify": {
+        "id": "3gjHnylel3PTRpjS44ocqr",
+        "name": "Zombie - 2025 Remastered",
+        "artists": [
+          "The Cranberries"
+        ],
+        "album": "No Need To Argue (2025 Remastered)",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+        "popularity": 0,
+        "duration_ms": 305626,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+        "explicit": false,
+        "release_date": "1994"
+      },
+      "display_title": "Zombie - 2025 Remastered",
+      "display_artist": "The Cranberries"
+    },
+    {
+      "rank": 50,
+      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "title": "Animal",
+      "artist": "KATSEYE",
+      "daily_streams": 2010353,
+      "total_streams": 12414585,
+      "spotify": {
+        "id": "3ouNEk0tv5TTi8VWMe1xbX",
+        "name": "Animal",
+        "artists": [
+          "KATSEYE"
+        ],
+        "album": "Animal",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2739e8d48f27391ce383862b8e8",
+        "popularity": 0,
+        "duration_ms": 158494,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
+        "explicit": false,
+        "release_date": "2026-07-24"
+      },
+      "display_title": "Animal",
+      "display_artist": "KATSEYE"
+    }
+  ]
+}
