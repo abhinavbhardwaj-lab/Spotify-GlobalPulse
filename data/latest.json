@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "source": "kworb.net global_daily + spotify-web-api",
   "track_count": 50,
   "tracks": [
@@ -8,8 +8,8 @@
       "track_id": "2sFepQNyl1WjpROruP8bJ0",
       "title": "Housewife",
       "artist": "Tate McRae",
-      "daily_streams": 5149130,
-      "total_streams": 37412473,
+      "daily_streams": 5099925,
+      "total_streams": 36335218,
       "spotify": {
         "id": "2sFepQNyl1WjpROruP8bJ0",
         "name": "Housewife",
@@ -33,8 +33,8 @@
       "track_id": "3h5T5JypYU7huFiVYhv1dr",
       "title": "BbY WOW",
       "artist": "KAROL G",
-      "daily_streams": 4688372,
-      "total_streams": 34025240,
+      "daily_streams": 4766593,
+      "total_streams": 33720659,
       "spotify": {
         "id": "3h5T5JypYU7huFiVYhv1dr",
         "name": "BbY WOW",
@@ -60,8 +60,8 @@
       "track_id": "70cHKK8bHAfJrOGVnfRG9J",
       "title": "Nicole Kidman",
       "artist": "AD\u00c3\u0089LA",
-      "daily_streams": 4162863,
-      "total_streams": 30003720,
+      "daily_streams": 4122819,
+      "total_streams": 29446080,
       "spotify": {
         "id": "70cHKK8bHAfJrOGVnfRG9J",
         "name": "Nicole Kidman",
@@ -85,8 +85,8 @@
       "track_id": "3zOYmiNOuyDL0ClxJcEJ0T",
       "title": "Stop The Wedding!",
       "artist": "Ashe",
-      "daily_streams": 3858191,
-      "total_streams": 27159828,
+      "daily_streams": 3877226,
+      "total_streams": 26907929,
       "spotify": {
         "id": "3zOYmiNOuyDL0ClxJcEJ0T",
         "name": "Stop The Wedding!",
@@ -110,8 +110,8 @@
       "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
       "title": "Ain't In LA",
       "artist": "AD\u00c3\u0089LA",
-      "daily_streams": 3311358,
-      "total_streams": 24255232,
+      "daily_streams": 3284465,
+      "total_streams": 23873110,
       "spotify": {
         "id": "6U9VpmP3dEinuezxCJ2Zg9",
         "name": "Ain't In LA",
@@ -135,8 +135,8 @@
       "track_id": "55pBIZO1cqoldeqpp5WR7H",
       "title": "the cure",
       "artist": "Olivia Rodrigo",
-      "daily_streams": 3243319,
-      "total_streams": 22688969,
+      "daily_streams": 3260192,
+      "total_streams": 22601393,
       "spotify": {
         "id": "55pBIZO1cqoldeqpp5WR7H",
         "name": "the cure",
@@ -160,8 +160,8 @@
       "track_id": "7qjZnBKE73H4Oxkopwulqe",
       "title": "back to friends",
       "artist": "sombr",
-      "daily_streams": 2731690,
-      "total_streams": 20125926,
+      "daily_streams": 2771149,
+      "total_streams": 19793069,
       "spotify": {
         "id": "7qjZnBKE73H4Oxkopwulqe",
         "name": "back to friends",
@@ -185,8 +185,8 @@
       "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
       "title": "Earrings",
       "artist": "Malcolm Todd",
-      "daily_streams": 2655307,
-      "total_streams": 18115097,
+      "daily_streams": 2663627,
+      "total_streams": 18024702,
       "spotify": {
         "id": "0eAuGrXyGFYwur9ARUe7LJ",
         "name": "Earrings",
@@ -210,8 +210,8 @@
       "track_id": "1o9mAOmNm3wT2NdyGV1Ard",
       "title": "Babydoll",
       "artist": "Jamie Miller",
-      "daily_streams": 2502156,
-      "total_streams": 17438232,
+      "daily_streams": 2559206,
+      "total_streams": 17328412,
       "spotify": {
         "id": "1o9mAOmNm3wT2NdyGV1Ard",
         "name": "Babydoll",
@@ -235,8 +235,8 @@
       "track_id": "2009X8GyWTqyxIdzAEYW6N",
       "title": "The One That Got Away",
       "artist": "Katy Perry",
-      "daily_streams": 2496746,
-      "total_streams": 18485729,
+      "daily_streams": 2550643,
+      "total_streams": 18197595,
       "spotify": {
         "id": "2009X8GyWTqyxIdzAEYW6N",
         "name": "The One That Got Away",
@@ -257,36 +257,11 @@
     },
     {
       "rank": 11,
-      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
-      "title": "stupid song",
-      "artist": "Olivia Rodrigo",
-      "daily_streams": 2490866,
-      "total_streams": 16361047,
-      "spotify": {
-        "id": "49j6SvuvWfbEKZKzsHCdLJ",
-        "name": "stupid song",
-        "artists": [
-          "Olivia Rodrigo"
-        ],
-        "album": "you seem pretty sad for a girl so in love",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
-        "popularity": 0,
-        "duration_ms": 209680,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
-        "explicit": false,
-        "release_date": "2026-06-11"
-      },
-      "display_title": "stupid song",
-      "display_artist": "Olivia Rodrigo"
-    },
-    {
-      "rank": 12,
       "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
       "title": "Beauty And A Beat",
       "artist": "Justin Bieber",
-      "daily_streams": 2486468,
-      "total_streams": 19406694,
+      "daily_streams": 2526362,
+      "total_streams": 18998862,
       "spotify": {
         "id": "6QFCMUUq1T2Vf5sFUXcuQ7",
         "name": "Beauty And A Beat",
@@ -307,12 +282,12 @@
       "display_artist": "Justin Bieber, Nicki Minaj"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
       "title": "Iris",
       "artist": "The Goo Goo Dolls",
-      "daily_streams": 2485290,
-      "total_streams": 17993501,
+      "daily_streams": 2504466,
+      "total_streams": 17743072,
       "spotify": {
         "id": "6Qyc6fS4DsZjB2mRW9DsQs",
         "name": "Iris",
@@ -332,12 +307,37 @@
       "display_artist": "The Goo Goo Dolls"
     },
     {
+      "rank": 13,
+      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "daily_streams": 2488277,
+      "total_streams": 16375435,
+      "spotify": {
+        "id": "49j6SvuvWfbEKZKzsHCdLJ",
+        "name": "stupid song",
+        "artists": [
+          "Olivia Rodrigo"
+        ],
+        "album": "you seem pretty sad for a girl so in love",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+        "popularity": 0,
+        "duration_ms": 209680,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+        "explicit": false,
+        "release_date": "2026-06-11"
+      },
+      "display_title": "stupid song",
+      "display_artist": "Olivia Rodrigo"
+    },
+    {
       "rank": 14,
       "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
       "title": "Sweater Weather",
       "artist": "The Neighbourhood",
-      "daily_streams": 2445453,
-      "total_streams": 17046320,
+      "daily_streams": 2477646,
+      "total_streams": 16982875,
       "spotify": {
         "id": "2QjOHCTQ1Jl3zawyYOpxh6",
         "name": "Sweater Weather",
@@ -361,8 +361,8 @@
       "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
       "title": "Die With A Smile",
       "artist": "Lady Gaga",
-      "daily_streams": 2440653,
-      "total_streams": 18025387,
+      "daily_streams": 2471922,
+      "total_streams": 17777592,
       "spotify": {
         "id": "7so0lgd0zP2Sbgs2d7a1SZ",
         "name": "Die With A Smile",
@@ -384,11 +384,36 @@
     },
     {
       "rank": 16,
+      "track_id": "68lbSrXDORS51pmyjZv712",
+      "title": "SWIM",
+      "artist": "BTS",
+      "daily_streams": 2397933,
+      "total_streams": 15415526,
+      "spotify": {
+        "id": "68lbSrXDORS51pmyjZv712",
+        "name": "SWIM",
+        "artists": [
+          "BTS"
+        ],
+        "album": "ARIRANG",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
+        "popularity": 0,
+        "duration_ms": 159007,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+        "explicit": false,
+        "release_date": "2026-03-20"
+      },
+      "display_title": "SWIM",
+      "display_artist": "BTS"
+    },
+    {
+      "rank": 17,
       "track_id": "1mKXFLRA179hdOWQBwUk9e",
       "title": "Just Give Me a Reason",
       "artist": "P!nk",
-      "daily_streams": 2345544,
-      "total_streams": 17502230,
+      "daily_streams": 2397854,
+      "total_streams": 17213963,
       "spotify": {
         "id": "1mKXFLRA179hdOWQBwUk9e",
         "name": "Just Give Me a Reason (feat. Nate Ruess)",
@@ -409,87 +434,12 @@
       "display_artist": "P!nk, Nate Ruess"
     },
     {
-      "rank": 17,
-      "track_id": "68lbSrXDORS51pmyjZv712",
-      "title": "SWIM",
-      "artist": "BTS",
-      "daily_streams": 2311938,
-      "total_streams": 15240291,
-      "spotify": {
-        "id": "68lbSrXDORS51pmyjZv712",
-        "name": "SWIM",
-        "artists": [
-          "BTS"
-        ],
-        "album": "ARIRANG",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-        "popularity": 0,
-        "duration_ms": 159007,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-        "explicit": false,
-        "release_date": "2026-03-20"
-      },
-      "display_title": "SWIM",
-      "display_artist": "BTS"
-    },
-    {
       "rank": 18,
-      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "daily_streams": 2290788,
-      "total_streams": 15303596,
-      "spotify": {
-        "id": "7scFxt9VhL4FJwuPSfRlfN",
-        "name": "Choosin' Texas",
-        "artists": [
-          "Ella Langley"
-        ],
-        "album": "Dandelion",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-        "popularity": 0,
-        "duration_ms": 231746,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
-        "explicit": false,
-        "release_date": "2026-04-10"
-      },
-      "display_title": "Choosin' Texas",
-      "display_artist": "Ella Langley"
-    },
-    {
-      "rank": 19,
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "title": "Self Aware",
-      "artist": "Temper City",
-      "daily_streams": 2290533,
-      "total_streams": 15227880,
-      "spotify": {
-        "id": "4qW3BbQAwZsrnu8a3ZRdyT",
-        "name": "Self Aware",
-        "artists": [
-          "Temper City"
-        ],
-        "album": "Self Aware",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-        "popularity": 0,
-        "duration_ms": 180740,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-        "explicit": false,
-        "release_date": "2026-02-15"
-      },
-      "display_title": "Self Aware",
-      "display_artist": "Temper City"
-    },
-    {
-      "rank": 20,
       "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
       "title": "Man I Need",
       "artist": "Olivia Dean",
-      "daily_streams": 2255663,
-      "total_streams": 15349217,
+      "daily_streams": 2307379,
+      "total_streams": 15404305,
       "spotify": {
         "id": "1qbmS6ep2hbBRaEZFpn7BX",
         "name": "Man I Need",
@@ -509,62 +459,37 @@
       "display_artist": "Olivia Dean"
     },
     {
-      "rank": 21,
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "title": "Loser",
-      "artist": "Tame Impala",
-      "daily_streams": 2245613,
-      "total_streams": 14646388,
+      "rank": 19,
+      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "daily_streams": 2305527,
+      "total_streams": 15358144,
       "spotify": {
-        "id": "7bxaFZ1O3cHkgLKMsdC3xR",
-        "name": "Loser",
+        "id": "7scFxt9VhL4FJwuPSfRlfN",
+        "name": "Choosin' Texas",
         "artists": [
-          "Tame Impala"
+          "Ella Langley"
         ],
-        "album": "Deadbeat",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+        "album": "Dandelion",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
         "popularity": 0,
-        "duration_ms": 223069,
+        "duration_ms": 231746,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
-        "explicit": true,
-        "release_date": "2025-10-17"
-      },
-      "display_title": "Loser",
-      "display_artist": "Tame Impala"
-    },
-    {
-      "rank": 22,
-      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "daily_streams": 2239760,
-      "total_streams": 15876056,
-      "spotify": {
-        "id": "7ujApz6iFP3PmKIDGcaGbe",
-        "name": "Great Expectation",
-        "artists": [
-          "SIENNA SPIRO"
-        ],
-        "album": "Visitor",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
-        "popularity": 0,
-        "duration_ms": 173975,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
+        "spotify_url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
         "explicit": false,
-        "release_date": "2026-07-02"
+        "release_date": "2026-04-10"
       },
-      "display_title": "Great Expectation",
-      "display_artist": "SIENNA SPIRO"
+      "display_title": "Choosin' Texas",
+      "display_artist": "Ella Langley"
     },
     {
-      "rank": 23,
+      "rank": 20,
       "track_id": "4WFgvKVfEhb3IUAFGrutTR",
       "title": "Love Me Not",
       "artist": "Ravyn Lenae",
-      "daily_streams": 2230133,
-      "total_streams": 16110156,
+      "daily_streams": 2287490,
+      "total_streams": 15946970,
       "spotify": {
         "id": "4WFgvKVfEhb3IUAFGrutTR",
         "name": "Love Me Not",
@@ -584,12 +509,62 @@
       "display_artist": "Ravyn Lenae"
     },
     {
-      "rank": 24,
+      "rank": 21,
+      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "daily_streams": 2258332,
+      "total_streams": 15690292,
+      "spotify": {
+        "id": "7ujApz6iFP3PmKIDGcaGbe",
+        "name": "Great Expectation",
+        "artists": [
+          "SIENNA SPIRO"
+        ],
+        "album": "Visitor",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+        "popularity": 0,
+        "duration_ms": 173975,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
+        "explicit": false,
+        "release_date": "2026-07-02"
+      },
+      "display_title": "Great Expectation",
+      "display_artist": "SIENNA SPIRO"
+    },
+    {
+      "rank": 22,
+      "track_id": "003vvx7Niy0yvhvHt4a68B",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "daily_streams": 2187696,
+      "total_streams": 14607005,
+      "spotify": {
+        "id": "003vvx7Niy0yvhvHt4a68B",
+        "name": "Mr. Brightside",
+        "artists": [
+          "The Killers"
+        ],
+        "album": "Hot Fuss",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+        "popularity": 0,
+        "duration_ms": 222973,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+        "explicit": false,
+        "release_date": "2004"
+      },
+      "display_title": "Mr. Brightside",
+      "display_artist": "The Killers"
+    },
+    {
+      "rank": 23,
       "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
       "title": "Every Breath You Take",
       "artist": "The Police",
-      "daily_streams": 2202910,
-      "total_streams": 13499030,
+      "daily_streams": 2184611,
+      "total_streams": 13734556,
       "spotify": {
         "id": "1JSTJqkT5qHq8MDJnJbRE1",
         "name": "Every Breath You Take",
@@ -609,12 +584,12 @@
       "display_artist": "The Police"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "track_id": "6VDw2mGBIa4csypjOhS6JT",
       "title": "Suzuki (from GTAVI: The Album)",
       "artist": "Fuerza Regida",
-      "daily_streams": 2195420,
-      "total_streams": 15103758,
+      "daily_streams": 2172037,
+      "total_streams": 15140311,
       "spotify": {
         "id": "6VDw2mGBIa4csypjOhS6JT",
         "name": "Suzuki (from GTAVI: The Album)",
@@ -635,12 +610,12 @@
       "display_artist": "Fuerza Regida, Grand Theft Auto VI"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "track_id": "1uDn0nbzeGPVw97jp7SvzR",
       "title": "P\u00c3\u00b3s - Ao Vivo",
       "artist": "Felipe e Rodrigo",
-      "daily_streams": 2135943,
-      "total_streams": 17227852,
+      "daily_streams": 2159462,
+      "total_streams": 16980875,
       "spotify": {
         "id": "1uDn0nbzeGPVw97jp7SvzR",
         "name": "P\u00f3s - Ao Vivo",
@@ -660,37 +635,12 @@
       "display_artist": "Felipe e Rodrigo"
     },
     {
-      "rank": 27,
-      "track_id": "003vvx7Niy0yvhvHt4a68B",
-      "title": "Mr. Brightside",
-      "artist": "The Killers",
-      "daily_streams": 2106757,
-      "total_streams": 14615563,
-      "spotify": {
-        "id": "003vvx7Niy0yvhvHt4a68B",
-        "name": "Mr. Brightside",
-        "artists": [
-          "The Killers"
-        ],
-        "album": "Hot Fuss",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
-        "popularity": 0,
-        "duration_ms": 222973,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
-        "explicit": false,
-        "release_date": "2004"
-      },
-      "display_title": "Mr. Brightside",
-      "display_artist": "The Killers"
-    },
-    {
-      "rank": 28,
+      "rank": 26,
       "track_id": "0QPdjsMOUhwouq1NS3HwfQ",
       "title": "Coming Up Roses",
       "artist": "Harry Styles",
-      "daily_streams": 2102122,
-      "total_streams": 13146544,
+      "daily_streams": 2131372,
+      "total_streams": 13319341,
       "spotify": {
         "id": "0QPdjsMOUhwouq1NS3HwfQ",
         "name": "Coming Up Roses",
@@ -710,12 +660,62 @@
       "display_artist": "Harry Styles"
     },
     {
+      "rank": 27,
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "title": "Loser",
+      "artist": "Tame Impala",
+      "daily_streams": 2118591,
+      "total_streams": 14642618,
+      "spotify": {
+        "id": "7bxaFZ1O3cHkgLKMsdC3xR",
+        "name": "Loser",
+        "artists": [
+          "Tame Impala"
+        ],
+        "album": "Deadbeat",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+        "popularity": 0,
+        "duration_ms": 223069,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
+        "explicit": true,
+        "release_date": "2025-10-17"
+      },
+      "display_title": "Loser",
+      "display_artist": "Tame Impala"
+    },
+    {
+      "rank": 28,
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "title": "Self Aware",
+      "artist": "Temper City",
+      "daily_streams": 2113173,
+      "total_streams": 15086434,
+      "spotify": {
+        "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+        "name": "Self Aware",
+        "artists": [
+          "Temper City"
+        ],
+        "album": "Self Aware",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+        "popularity": 0,
+        "duration_ms": 180740,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+        "explicit": false,
+        "release_date": "2026-02-15"
+      },
+      "display_title": "Self Aware",
+      "display_artist": "Temper City"
+    },
+    {
       "rank": 29,
       "track_id": "21IYMdzTrzSe191Cy5eMap",
       "title": "Sailor Song",
       "artist": "Gigi Perez",
-      "daily_streams": 2072560,
-      "total_streams": 13465506,
+      "daily_streams": 2095690,
+      "total_streams": 13548568,
       "spotify": {
         "id": "21IYMdzTrzSe191Cy5eMap",
         "name": "Sailor Song",
@@ -739,8 +739,8 @@
       "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
       "title": "Treat You Better",
       "artist": "Shawn Mendes",
-      "daily_streams": 2070761,
-      "total_streams": 14281980,
+      "daily_streams": 2088797,
+      "total_streams": 14236881,
       "spotify": {
         "id": "3QGsuHI8jO1Rx4JWLUh9jd",
         "name": "Treat You Better",
@@ -764,8 +764,8 @@
       "track_id": "7J1uxwnxfQLu4APicE5Rnj",
       "title": "Billie Jean",
       "artist": "Michael Jackson",
-      "daily_streams": 2061442,
-      "total_streams": 15806901,
+      "daily_streams": 2079294,
+      "total_streams": 15679256,
       "spotify": {
         "id": "7J1uxwnxfQLu4APicE5Rnj",
         "name": "Billie Jean",
@@ -786,11 +786,36 @@
     },
     {
       "rank": 32,
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "daily_streams": 2072308,
+      "total_streams": 15641339,
+      "spotify": {
+        "id": "3qhlB30KknSejmIvZZLjOD",
+        "name": "End of Beginning",
+        "artists": [
+          "Djo"
+        ],
+        "album": "DECIDE",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273987466cc3363ea26094ca3c4",
+        "popularity": 0,
+        "duration_ms": 159245,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+        "explicit": false,
+        "release_date": "2022-09-16"
+      },
+      "display_title": "End of Beginning",
+      "display_artist": "Djo"
+    },
+    {
+      "rank": 33,
       "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
       "title": "Babydoll",
       "artist": "Dominic Fike",
-      "daily_streams": 2039155,
-      "total_streams": 15165624,
+      "daily_streams": 2070647,
+      "total_streams": 14906210,
       "spotify": {
         "id": "7yNf9YjeO5JXUE3JEBgnYc",
         "name": "Babydoll",
@@ -810,37 +835,12 @@
       "display_artist": "Dominic Fike"
     },
     {
-      "rank": 33,
-      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
-      "title": "Creep",
-      "artist": "Radiohead",
-      "daily_streams": 2036465,
-      "total_streams": 14415743,
-      "spotify": {
-        "id": "70LcF31zb1H0PyJoS1Sx1r",
-        "name": "Creep",
-        "artists": [
-          "Radiohead"
-        ],
-        "album": "Pablo Honey",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
-        "popularity": 0,
-        "duration_ms": 238640,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
-        "explicit": true,
-        "release_date": "1993-02-22"
-      },
-      "display_title": "Creep",
-      "display_artist": "Radiohead"
-    },
-    {
       "rank": 34,
       "track_id": "6dOtVTDdiauQNBQEDOtlAB",
       "title": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
-      "daily_streams": 2021451,
-      "total_streams": 14103733,
+      "daily_streams": 2046482,
+      "total_streams": 14031191,
       "spotify": {
         "id": "6dOtVTDdiauQNBQEDOtlAB",
         "name": "BIRDS OF A FEATHER",
@@ -861,36 +861,36 @@
     },
     {
       "rank": 35,
-      "track_id": "3qhlB30KknSejmIvZZLjOD",
-      "title": "End of Beginning",
-      "artist": "Djo",
-      "daily_streams": 2007654,
-      "total_streams": 15908451,
+      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
+      "title": "Creep",
+      "artist": "Radiohead",
+      "daily_streams": 2031809,
+      "total_streams": 14292276,
       "spotify": {
-        "id": "3qhlB30KknSejmIvZZLjOD",
-        "name": "End of Beginning",
+        "id": "70LcF31zb1H0PyJoS1Sx1r",
+        "name": "Creep",
         "artists": [
-          "Djo"
+          "Radiohead"
         ],
-        "album": "DECIDE",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273987466cc3363ea26094ca3c4",
+        "album": "Pablo Honey",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
         "popularity": 0,
-        "duration_ms": 159245,
+        "duration_ms": 238640,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-        "explicit": false,
-        "release_date": "2022-09-16"
+        "spotify_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
+        "explicit": true,
+        "release_date": "1993-02-22"
       },
-      "display_title": "End of Beginning",
-      "display_artist": "Djo"
+      "display_title": "Creep",
+      "display_artist": "Radiohead"
     },
     {
       "rank": 36,
       "track_id": "5Ohxk2dO5COHF1krpoPigN",
       "title": "Sign of the Times",
       "artist": "Harry Styles",
-      "daily_streams": 1952678,
-      "total_streams": 13653355,
+      "daily_streams": 2008069,
+      "total_streams": 13637324,
       "spotify": {
         "id": "5Ohxk2dO5COHF1krpoPigN",
         "name": "Sign of the Times",
@@ -914,8 +914,8 @@
       "track_id": "0tW2gwaRzFQQrgr2UCO56G",
       "title": "Alfaaz",
       "artist": "Hamza Malik",
-      "daily_streams": 1946960,
-      "total_streams": 13748051,
+      "daily_streams": 1997736,
+      "total_streams": 13685775,
       "spotify": {
         "id": "0tW2gwaRzFQQrgr2UCO56G",
         "name": "Alfaaz",
@@ -940,8 +940,8 @@
       "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
       "title": "One Of The Girls",
       "artist": "The Weeknd",
-      "daily_streams": 1934960,
-      "total_streams": 14097766,
+      "daily_streams": 1992290,
+      "total_streams": 13957192,
       "spotify": {
         "id": "7CyPwkp0oE8Ro9Dd5CUDjW",
         "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
@@ -967,8 +967,8 @@
       "track_id": "7MXVkk9YMctZqd1Srtv4MB",
       "title": "Starboy",
       "artist": "The Weeknd",
-      "daily_streams": 1904736,
-      "total_streams": 12163856,
+      "daily_streams": 1953254,
+      "total_streams": 12355227,
       "spotify": {
         "id": "7MXVkk9YMctZqd1Srtv4MB",
         "name": "Starboy",
@@ -993,8 +993,8 @@
       "track_id": "2lpygKqzPFtItQ4ss3cgfb",
       "title": "Cinderella",
       "artist": "Mac Miller",
-      "daily_streams": 1895658,
-      "total_streams": 12720863,
+      "daily_streams": 1919476,
+      "total_streams": 12738351,
       "spotify": {
         "id": "2lpygKqzPFtItQ4ss3cgfb",
         "name": "Cinderella (feat. Ty Dolla $ign)",
@@ -1016,36 +1016,11 @@
     },
     {
       "rank": 41,
-      "track_id": "20jbSiX29FDX4oQxBXyUEi",
-      "title": "hate that i made you love me",
-      "artist": "Ariana Grande",
-      "daily_streams": 1884073,
-      "total_streams": 13455819,
-      "spotify": {
-        "id": "20jbSiX29FDX4oQxBXyUEi",
-        "name": "hate that i made you love me",
-        "artists": [
-          "Ariana Grande"
-        ],
-        "album": "hate that i made you love me",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
-        "popularity": 0,
-        "duration_ms": 197949,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-        "explicit": false,
-        "release_date": "2026-05-29"
-      },
-      "display_title": "hate that i made you love me",
-      "display_artist": "Ariana Grande"
-    },
-    {
-      "rank": 42,
       "track_id": "5XeFesFbtLpXzIVDNQP22n",
       "title": "I Wanna Be Yours",
       "artist": "Arctic Monkeys",
-      "daily_streams": 1839952,
-      "total_streams": 12647589,
+      "daily_streams": 1899187,
+      "total_streams": 12681807,
       "spotify": {
         "id": "5XeFesFbtLpXzIVDNQP22n",
         "name": "I Wanna Be Yours",
@@ -1065,12 +1040,62 @@
       "display_artist": "Arctic Monkeys"
     },
     {
+      "rank": 42,
+      "track_id": "3iy2QuCtCzpWnR6tia39AB",
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "daily_streams": 1865933,
+      "total_streams": 13284783,
+      "spotify": {
+        "id": "3iy2QuCtCzpWnR6tia39AB",
+        "name": "hate that i made you love me",
+        "artists": [
+          "Ariana Grande"
+        ],
+        "album": "petal",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+        "popularity": 0,
+        "duration_ms": 197949,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+        "explicit": false,
+        "release_date": "2026-07-31"
+      },
+      "display_title": "hate that i made you love me",
+      "display_artist": "Ariana Grande"
+    },
+    {
       "rank": 43,
+      "track_id": "2FRnf9qhLbvw8fu4IBXx78",
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "daily_streams": 1842495,
+      "total_streams": 8756428,
+      "spotify": {
+        "id": "2FRnf9qhLbvw8fu4IBXx78",
+        "name": "Last Christmas",
+        "artists": [
+          "Wham!"
+        ],
+        "album": "LAST CHRISTMAS",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d",
+        "popularity": 0,
+        "duration_ms": 262960,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
+        "explicit": false,
+        "release_date": "1984-11-29"
+      },
+      "display_title": "Last Christmas",
+      "display_artist": "Wham!"
+    },
+    {
+      "rank": 44,
       "track_id": "3AJwUDP919kvQ9QcozQPxg",
       "title": "Yellow",
       "artist": "Coldplay",
-      "daily_streams": 1795158,
-      "total_streams": 12096465,
+      "daily_streams": 1827267,
+      "total_streams": 12087750,
       "spotify": {
         "id": "3AJwUDP919kvQ9QcozQPxg",
         "name": "Yellow",
@@ -1090,37 +1115,12 @@
       "display_artist": "Coldplay"
     },
     {
-      "rank": 44,
-      "track_id": "0JXXNGljqupsJaZsgSbMZV",
-      "title": "Sure Thing",
-      "artist": "Miguel",
-      "daily_streams": 1785568,
-      "total_streams": 10980411,
-      "spotify": {
-        "id": "0JXXNGljqupsJaZsgSbMZV",
-        "name": "Sure Thing",
-        "artists": [
-          "Miguel"
-        ],
-        "album": "All I Want Is You",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-        "popularity": 0,
-        "duration_ms": 195373,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
-        "explicit": false,
-        "release_date": "2010-11-30"
-      },
-      "display_title": "Sure Thing",
-      "display_artist": "Miguel"
-    },
-    {
       "rank": 45,
       "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
       "title": "Ordinary",
       "artist": "Alex Warren",
-      "daily_streams": 1782208,
-      "total_streams": 13140657,
+      "daily_streams": 1827158,
+      "total_streams": 12954292,
       "spotify": {
         "id": "2RkZ5LkEzeHGRsmDqKwmaJ",
         "name": "Ordinary",
@@ -1141,11 +1141,36 @@
     },
     {
       "rank": 46,
+      "track_id": "0JXXNGljqupsJaZsgSbMZV",
+      "title": "Sure Thing",
+      "artist": "Miguel",
+      "daily_streams": 1801315,
+      "total_streams": 11165278,
+      "spotify": {
+        "id": "0JXXNGljqupsJaZsgSbMZV",
+        "name": "Sure Thing",
+        "artists": [
+          "Miguel"
+        ],
+        "album": "All I Want Is You",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
+        "popularity": 0,
+        "duration_ms": 195373,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
+        "explicit": false,
+        "release_date": "2010-11-30"
+      },
+      "display_title": "Sure Thing",
+      "display_artist": "Miguel"
+    },
+    {
+      "rank": 47,
       "track_id": "7qiZfU4dY1lWllzX7mPBI3",
       "title": "Shape of You",
       "artist": "Ed Sheeran",
-      "daily_streams": 1745328,
-      "total_streams": 9991788,
+      "daily_streams": 1785776,
+      "total_streams": 10359673,
       "spotify": {
         "id": "7qiZfU4dY1lWllzX7mPBI3",
         "name": "Shape of You",
@@ -1165,62 +1190,65 @@
       "display_artist": "Ed Sheeran"
     },
     {
-      "rank": 47,
-      "track_id": "2FRnf9qhLbvw8fu4IBXx78",
-      "title": "Last Christmas",
-      "artist": "Wham!",
-      "daily_streams": 1738461,
-      "total_streams": 6913933,
-      "spotify": {
-        "id": "2FRnf9qhLbvw8fu4IBXx78",
-        "name": "Last Christmas",
-        "artists": [
-          "Wham!"
-        ],
-        "album": "LAST CHRISTMAS",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d",
-        "popularity": 0,
-        "duration_ms": 262960,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
-        "explicit": false,
-        "release_date": "1984-11-29"
-      },
-      "display_title": "Last Christmas",
-      "display_artist": "Wham!"
-    },
-    {
       "rank": 48,
-      "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
-      "title": "WILDFLOWER",
-      "artist": "Billie Eilish",
-      "daily_streams": 1729300,
-      "total_streams": 11322398,
+      "track_id": "5g7sDjBhZ4I3gcFIpkrLuI",
+      "title": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "daily_streams": 1780599,
+      "total_streams": 11555630,
       "spotify": {
-        "id": "3QaPy1KgI7nu9FJEQUgn6h",
-        "name": "WILDFLOWER",
+        "id": "5g7sDjBhZ4I3gcFIpkrLuI",
+        "name": "Locked out of Heaven",
         "artists": [
-          "Billie Eilish"
+          "Bruno Mars"
         ],
-        "album": "HIT ME HARD AND SOFT",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+        "album": "Unorthodox Jukebox",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27349055dce3554e72e82082980",
         "popularity": 0,
-        "duration_ms": 261466,
+        "duration_ms": 233653,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
+        "spotify_url": "https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI",
         "explicit": false,
-        "release_date": "2024-05-17"
+        "release_date": "2012-12-05"
       },
-      "display_title": "WILDFLOWER",
-      "display_artist": "Billie Eilish"
+      "display_title": "Locked out of Heaven",
+      "display_artist": "Bruno Mars"
     },
     {
       "rank": 49,
+      "track_id": "56V7nzrqr6Sq1uFym4odwa",
+      "title": "Cuando No Era Cantante RMX - Remix",
+      "artist": "El Bogueto",
+      "daily_streams": 1780509,
+      "total_streams": 11717516,
+      "spotify": {
+        "id": "56V7nzrqr6Sq1uFym4odwa",
+        "name": "Cuando No Era Cantante RMX - Remix",
+        "artists": [
+          "El Bogueto",
+          "Anuel AA",
+          "Fuerza Regida",
+          "Yung Beef"
+        ],
+        "album": "Eso Si Es De Gangster",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2735572179fd49fb366926d2369",
+        "popularity": 0,
+        "duration_ms": 327488,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa",
+        "explicit": true,
+        "release_date": "2026-03-25"
+      },
+      "display_title": "Cuando No Era Cantante RMX - Remix",
+      "display_artist": "El Bogueto, Anuel AA, Fuerza Regida, Yung Beef"
+    },
+    {
+      "rank": 50,
       "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
       "title": "In the End",
       "artist": "Linkin Park",
-      "daily_streams": 1728690,
-      "total_streams": 10846238,
+      "daily_streams": 1773590,
+      "total_streams": 10991252,
       "spotify": {
         "id": "60a0Rd6pjrkxjPbaKzXjfq",
         "name": "In the End",
@@ -1238,31 +1266,6 @@
       },
       "display_title": "In the End",
       "display_artist": "Linkin Park"
-    },
-    {
-      "rank": 50,
-      "track_id": "0COqiPhxzoWICwFCS4eZcp",
-      "title": "Bring Me To Life",
-      "artist": "Evanescence",
-      "daily_streams": 1724040,
-      "total_streams": 12369510,
-      "spotify": {
-        "id": "0COqiPhxzoWICwFCS4eZcp",
-        "name": "Bring Me To Life",
-        "artists": [
-          "Evanescence"
-        ],
-        "album": "Fallen",
-        "album_image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
-        "popularity": 0,
-        "duration_ms": 235893,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
-        "explicit": false,
-        "release_date": "2003-03-04"
-      },
-      "display_title": "Bring Me To Life",
-      "display_artist": "Evanescence"
     }
   ]
 }
